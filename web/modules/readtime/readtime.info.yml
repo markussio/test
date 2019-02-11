@@ -1,0 +1,5 @@
+name: readtime
+type: module
+description: Pseudo field
+package: Custom
+core: 8.x
